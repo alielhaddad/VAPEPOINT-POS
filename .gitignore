@@ -1,0 +1,5 @@
+# Never commit private signing material
+LICENSE_SIGNING_PRIVATE_KEY.pem
+LICENSE_SIGNING_PRIVATE_KEY
+*.private.pem
+keys/private.pem
