@@ -14,6 +14,13 @@
       "hwidHash": "90a0470d1270a6505d5760a578f00229b9a3e278cb74a2f853c3e77d5746ec80",
       "status": "active",
       "expiresAt": null
+    },
+     {
+      "licenseId": "SOHO-0003",
+      "shopName": "reda hossam",
+      "hwidHash": "af916739c746638c21451b00631f5d92b7e5c4d22a7b5d98284a2833d69f5824",
+      "status": "active",
+      "expiresAt": null
     }
   ]
 }
